@@ -1,6 +1,5 @@
 import 'dart:async';
 import 'dart:math';
-import '../model/favoruite/favourite_item_model.dart';
 import 'favourite_item_model.dart';
 
 class FavouriteRepository {
